@@ -158,7 +158,7 @@
 // }
 
 - (void)stopWithFinishPlayingCallback{
-    [self stop];
+    // [self stop];
     [self renderCompletion];
 }
 
